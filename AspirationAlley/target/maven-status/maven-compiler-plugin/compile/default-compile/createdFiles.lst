@@ -1,0 +1,17 @@
+AspirationAlley\model\Image.class
+AspirationAlley\repository\UserRepository.class
+AspirationAlley\controller\MainController.class
+AspirationAlley\model\Post.class
+AspirationAlley\controller\LoginController.class
+AspirationAlley\controller\ProfileController.class
+AspirationAlley\service\ImageService.class
+AspirationAlley\config\SecurityConfig.class
+AspirationAlley\model\User.class
+AspirationAlley\controller\PostController.class
+AspirationAlley\controller\CustomErrorController.class
+AspirationAlley\repository\ImageRepository.class
+AspirationAlley\repository\PostRepository.class
+AspirationAlley\AspirationAlleyApplication.class
+AspirationAlley\service\UserService.class
+AspirationAlley\service\PostService.class
+AspirationAlley\controller\RegistrationController.class
